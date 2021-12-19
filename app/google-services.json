@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "540326078556",
+    "project_id": "blood-bank-ab1b1",
+    "storage_bucket": "blood-bank-ab1b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540326078556:android:795edcac9ad4a3a2841e99",
+        "android_client_info": {
+          "package_name": "com.anzi.bloodpoint2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540326078556-3aau3fbieg87h4b2cdot1dpv6ulukvl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuunbE7D1J9VbD4uWslRsqAL8k0U7J3IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540326078556-3aau3fbieg87h4b2cdot1dpv6ulukvl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540326078556:android:8a5e2b5576e2a0da841e99",
+        "android_client_info": {
+          "package_name": "com.anzila.bloodpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540326078556-3aau3fbieg87h4b2cdot1dpv6ulukvl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuunbE7D1J9VbD4uWslRsqAL8k0U7J3IE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540326078556-3aau3fbieg87h4b2cdot1dpv6ulukvl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
